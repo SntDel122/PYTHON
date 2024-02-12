@@ -1,0 +1,6 @@
+base = float(3)
+altura = float(4)
+hipotenusa = float(5)
+
+area = (base * altura * 0.5)
+print(area)
